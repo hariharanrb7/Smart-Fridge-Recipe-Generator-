@@ -14,31 +14,6 @@ https://drive.google.com/file/d/1FHhGNMO63nJtY8jz9_-KbWvx7ApGuSVa/view
 
 ---
 
-## 📁 Project Structure
-
-Mealgen_Multi-Modal-Intelligence_24LAI13VIT
-
-├── resources # Image datasets
-
-├  ├── fridge_interior_images  # Sample fridge images for detection of ingredients
-
-├  └── shopping_list           # to upload at Shopping List Checker
-
-├  └── Architecture Diagram    # System Architecture Diagram
-
-├── mealgen_smart_fridge_using_deepeeek.py  # DeepSeek implementation
-
-├── mealgen_smart_fridge_using_gemini_2.py  # Gemini implementation
-
-├── yolov8_model_training.ipynb  # Model training notebook
-
-├── requirements.txt             # Python dependencies
-
-└── README.md                    # This file
-
-
----
-
 ## 🚀 Features
 
 - 🧠 Multi-modal recipe generation using fridge images
